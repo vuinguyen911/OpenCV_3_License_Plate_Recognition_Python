@@ -3,4 +3,4 @@ https://www.youtube.com/watch?v=fJcl6Gw1D8k
 
 
 Libs requirements:
-pip install opencv-python-headless
+    pip install opencv-python-headless
